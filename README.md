@@ -5,7 +5,7 @@
 - **CCID:** `suvir1`
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+Google Gemini (integrated into Android Studio) for formatting code.
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+N/A
